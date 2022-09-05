@@ -1,0 +1,22 @@
+{
+  "name": "curso-profesional-javascript",
+  "version": "1.0.0",
+  "description": "Curso Profesional de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan2579/Curso-Profesional-JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Juan Gualdron <juandavidgualdronnavarro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan2579/Curso-Profesional-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Juan2579/Curso-Profesional-JavaScript#readme"
+}
