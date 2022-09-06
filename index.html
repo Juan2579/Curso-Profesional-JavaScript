@@ -19,35 +19,9 @@
         </video>
 
         <button>Play/Pause</button>
+        <button class="toggleMuteButton">Unmute/Mute</button>
     </main>
 
-    <script>
-        const video = document.querySelector("video")
-        const button = document.querySelector("button");
-
-        class MediaPlayer{
-            constructor({
-                media
-            }){
-                this.media = media;
-            }
-
-
-            play(){
-                this.media.play()
-            }
-            
-        }
-        // MediaPlayer.prototype.play = function(){
-        //         this.media.play()
-        //     }
-        const player = new MediaPlayer({
-            media: video
-        })
-
-        button.onclick = () => {
-            player.play()
-        }
-    </script>
+    <script type="module" src="/src/index.js"></script>
 </body>
 </html>

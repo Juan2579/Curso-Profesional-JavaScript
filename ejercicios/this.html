@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This</title>
+</head>
+<body>
+    
+    <h1>
+        <code>this</code> se refiere a un objeto. Ese objeto es el que actualmente esta ejecutando un pedazo de codigo
+    </h1>
+
+    <script>
+        //this en el scope global
+        console.log(`this es igual a ${this}`)
+
+        //this en el scope de una funcion
+        function whoIsThis(){
+            return this
+        }
+        console.log(`whoIsThis(): ${whoIsThis()}`)
+
+        //this en el scope de una function en strict mode
+        function whoIsThisStrict(){
+            "use strict";
+            return this
+        }
+        console.log(`whoIsThisStrict(): ${whoIsThisStrict()}`)
+    </script>
+</body>
+</html>
