@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promesas</title>
+</head>
+<body>
+    <ul>
+        <li><button id="sequence">Get Top Movies in Sequence</button></li>
+        <li><button id="parallel">Get Top Movies in Parallel</button></li>
+        <li><button id="fastest">Get Fastest Top Movies</button></li>
+
+    </ul>
+    <ul id="movies"></ul>
+
+    <script>
+         //recordatorio de usar promesas
+        // function getTrendingMovies(){
+        //     return fetch(`${API}/trending/movie/day?api_key=${API_KEY}`)
+        //         .then(response => response.json())
+        //         .then(data => data.results)
+        //         .then(data => data.map(data => console.log(data.id)))
+        //         .catch(error => console.log(error))
+        // }
+        // getTrendingMovies()
+        const API_KEY = "c2534f1cf35e2bef3209b3378ffd1451"
+        const API = "https://api.themoviedb.org/3"
+
+        function getMovie(id){
+            const url = `${API}/movie/${id}?api_key=${API_KEY}`
+            return fetch(url)
+                .then(response => response.json())
+        }
+
+        function getPopularMovies(){
+            const url = `${API}/discover/movie?sort_by=popularity.desc&api_key=${API_KEY}`
+            return fetch(url)
+                .then(response => response.json())
+                .then(data => data.results)
+        }
+        // function getTopMoviesIds(n = 3){
+        //     return getPopularMovies()
+        //         .then(popularMovies => popularMovies.slice(0, n).map(movie => movie.id))
+        // }
+        async function getTopMoviesIds(n = 3){
+            try {
+                const popularMovies = await getPopularMovies();
+                
+            } catch (error) {
+                
+            }
+            
+        }
+        function renderMovies(movies){
+            const movieList = document.getElementById("movies");
+            movieList.innerHTML = ""
+
+            movies.forEach(movie => {
+                const listItem = document.createElement("li");
+                listItem.innerHTML = ``
+            })
+        }
+       
+    </script>
+</body>
+</html>
