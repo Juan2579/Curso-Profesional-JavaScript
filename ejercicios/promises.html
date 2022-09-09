@@ -28,17 +28,31 @@
         const API_KEY = "c2534f1cf35e2bef3209b3378ffd1451"
         const API = "https://api.themoviedb.org/3"
 
-        function getMovie(id){
+        // function getMovie(id){
+        //     const url = `${API}/movie/${id}?api_key=${API_KEY}`
+        //     return fetch(url)
+        //         .then(response => response.json())
+        // }
+        async function getMovie(id){
             const url = `${API}/movie/${id}?api_key=${API_KEY}`
-            return fetch(url)
-                .then(response => response.json())
+            const response = await fetch(url)
+            const data = await response.json()
+
+            return data
         }
 
-        function getPopularMovies(){
+        // function getPopularMovies(){
+        //     const url = `${API}/discover/movie?sort_by=popularity.desc&api_key=${API_KEY}`
+        //     return fetch(url)
+        //         .then(response => response.json())
+        //         .then(data => data.results)
+        // }
+        async function getPopularMovies(){
             const url = `${API}/discover/movie?sort_by=popularity.desc&api_key=${API_KEY}`
-            return fetch(url)
-                .then(response => response.json())
-                .then(data => data.results)
+            const response = await fetch(url)
+            const data = await response.json()
+
+            return data.results
         }
         // function getTopMoviesIds(n = 3){
         //     return getPopularMovies()
@@ -47,9 +61,11 @@
         async function getTopMoviesIds(n = 3){
             try {
                 const popularMovies = await getPopularMovies();
+                const ids = popularMovies.slice(0, n).map(movie => movie.id)
+                return ids
                 
             } catch (error) {
-                
+                console.log(error)
             }
             
         }
@@ -59,10 +75,39 @@
 
             movies.forEach(movie => {
                 const listItem = document.createElement("li");
-                listItem.innerHTML = ``
+                listItem.innerHTML = `
+                    <img src="https://image.tmdb.org/t/p/w342${movie.poster_path}">
+                    <h5>${movie.title}</h5>
+                    <p>Released on <em>${movie.release_date}</em></p>
+                `
+
+                movieList.appendChild(listItem)
             })
         }
-       
+        
+        function getTopMoviesInSequence(){
+            return []
+        }
+        function getTopMoviesInParallel(){
+            return []
+        }
+        async function getFastestTopMovie(){
+            return []
+        }
+
+        document.getElementById("sequence").onclick() = async function(){
+            const movies = await getTopMoviesInSequence()
+            renderMovies(movies)
+        }
+        document.getElementById("parallel").onclick() = async function(){
+            const movies = await getTopMoviesInParallel()
+            renderMovies(movies)
+        }
+        document.getElementById("fastest").onclick() = async function(){
+            const movies = await getFastestTopMovies()
+            renderMovies(movies)
+        }
+
     </script>
 </body>
 </html>
