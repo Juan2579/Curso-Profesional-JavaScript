@@ -2,9 +2,12 @@ class AutoPlay {
     constructor(video){
         this.player = video;
     }
-
+    
     run(){
-        this.player.muted = true;
+        if(!this.player.muted){
+            this.player.muted = true
+        
+        }
         this.player.play()
     }
 }
