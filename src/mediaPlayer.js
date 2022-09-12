@@ -42,7 +42,7 @@ class MediaPlayer{
             }
         }
         this.plugins.forEach(plugin => {
-            plugin.run()
+            plugin.run(player)
         })
     }
     

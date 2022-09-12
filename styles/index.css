@@ -23,3 +23,11 @@ header p{
 .movie{
     width: 100%;
 }
+main h2{
+    font-size: 3rem
+}
+main li{
+    font-size: 2rem;
+    margin-top: 15px;
+    color: rgb(172, 169, 163);
+}

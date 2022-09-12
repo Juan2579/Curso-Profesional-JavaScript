@@ -1,14 +1,10 @@
-class AutoPlay {
-    constructor(video){
-        this.player = video;
-    }
-    
-    run(){
-        if(!this.player.muted){
-            this.player.muted = true
+class AutoPlay {    
+    run(player){
+        if(!player.muted){
+            player.muted = true
         
         }
-        this.player.play()
+        player.play()
     }
 }
 
