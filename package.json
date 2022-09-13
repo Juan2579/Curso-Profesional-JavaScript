@@ -4,7 +4,7 @@
   "description": "Curso Profesional de JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html ejercicios/**/*.html"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/Juan2579/Curso-Profesional-JavaScript/issues"
   },
-  "homepage": "https://github.com/Juan2579/Curso-Profesional-JavaScript#readme"
+  "homepage": "https://github.com/Juan2579/Curso-Profesional-JavaScript#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "typescript": "^4.8.3"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
 }
