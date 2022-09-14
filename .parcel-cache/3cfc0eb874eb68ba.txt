@@ -1,16 +1,17 @@
-4724
-60/home/juandavidg2203/Curso-Profesional-JavaScript/index.html1662997780137046016 0
-55/home/juandavidg2203/Curso-Profesional-JavaScript/sw.js1663101855619403845 0
+4726
+60/home/juandavidg2203/Curso-Profesional-JavaScript/index.html1663178176154242793 0
+55/home/juandavidg2203/Curso-Profesional-JavaScript/sw.js1663176393584244732 0
 74/home/juandavidg2203/Curso-Profesional-JavaScript/dist/src.a2b27638.js.map1663103356189424393 0
-65/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.html1663104976319446577 0
-86/home/juandavidg2203/Curso-Profesional-JavaScript/dist/BigBuckBunny_512kb.fd231279.mp41663104977439446592 0
+65/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.html1663178176694242792 0
+86/home/juandavidg2203/Curso-Profesional-JavaScript/dist/BigBuckBunny_512kb.fd231279.mp41663178177844242791 0
 70/home/juandavidg2203/Curso-Profesional-JavaScript/dist/src.a2b27638.js1663103299589423618 0
-81/home/juandavidg2203/Curso-Profesional-JavaScript/dist/typescript.7f9a0c30.js.map1663104976319446577 0
-60/home/juandavidg2203/Curso-Profesional-JavaScript/dist/sw.js1663104976319446577 0
+81/home/juandavidg2203/Curso-Profesional-JavaScript/dist/typescript.7f9a0c30.js.map1663178176684242792 0
+60/home/juandavidg2203/Curso-Profesional-JavaScript/dist/sw.js1663178176664242792 0
+72/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.b71e74eb.js1663178176824242792 0
 74/home/juandavidg2203/Curso-Profesional-JavaScript/dist/styles.6145e9cd.css1663103299439423615 0
-87/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.html1663104976319446577 0
-98/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js.map1663110727355794075 0
-76/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript1663110727355794075 1
+87/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.html1663178176984242792 0
+98/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js.map1663178176834242792 0
+76/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript1663178176984242792 1
 71/home/juandavidg2203/Curso-Profesional-JavaScript/ejercicios/scope.html1662479976375109333 0
 70/home/juandavidg2203/Curso-Profesional-JavaScript/ejercicios/this.html1662570091453649867 0
 88/home/juandavidg2203/Curso-Profesional-JavaScript/ejercicios/prototypal-inheritance.html1662655998698093602 0
@@ -135,13 +136,13 @@
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/201663103298719423606 1
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/0a1663103298629423604 1
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/1c1663103298699423605 1
-59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/c51663103298979423609 1
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/271663103299059423610 1
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/521663103298829423607 1
-74/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins/autoPause.js1663015509948705174 0
-62/home/juandavidg2203/Curso-Profesional-JavaScript/src/index.js1663104962449446387 0
-68/home/juandavidg2203/Curso-Profesional-JavaScript/src/mediaPlayer.js1663000078667074549 0
-53/home/juandavidg2203/Curso-Profesional-JavaScript/src1662494242023783814 1
+59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/c51663103298979423609 1
+62/home/juandavidg2203/Curso-Profesional-JavaScript/src/index.ts1663178160494242810 0
+68/home/juandavidg2203/Curso-Profesional-JavaScript/src/mediaPlayer.ts1663177823884243176 0
+73/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins/autoPlay.ts1663177668454243345 0
+53/home/juandavidg2203/Curso-Profesional-JavaScript/src1663177841234243157 1
 85/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/resolve-from/readme.md1663104574769441078 0
 84/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/resolve-from/index.js1663104574709441078 0
 75/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/resolve-from1663104574749441078 1
@@ -178,7 +179,7 @@
 99/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/dist/unpacker/agents.js1663104575119441083 0
 100/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/dist/unpacker/feature.js1663104575819441093 0
 101/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/dist/unpacker/features.js1663104575819441093 0
-73/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.78b2a846.css1663104976319446577 0
+73/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.78b2a846.css1663178176664242792 0
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/8b1663103298919423608 1
 99/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/dist/unpacker/region.js1663104575979441095 0
 96/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/dist/lib/statuses.js1663104575999441095 0
@@ -216,7 +217,7 @@
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/bc1663103298969423609 1
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/OM.js1663104575949441094 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/BZ.js1663104575549441089 0
-80/home/juandavidg2203/Curso-Profesional-JavaScript/ejercicios/typescript/index.ts1663110727265794073 0
+80/home/juandavidg2203/Curso-Profesional-JavaScript/ejercicios/typescript/index.ts1663175866224245306 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/FK.js1663104575829441093 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/SN.js1663104575989441095 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/KH.js1663104575889441094 0
@@ -506,7 +507,7 @@
 104/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/input-range.js1663104575869441093 0
 112/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/background-img-opts.js1663104575449441088 0
 111/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/html-media-capture.js1663104575849441093 0
-61/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins1662996961957035860 1
+61/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins1663177533114243493 1
 109/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/domcontentloaded.js1663104575799441092 0
 97/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/avif.js1663104575419441087 0
 106/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/online-status.js1663104575949441094 0
@@ -546,6 +547,7 @@
 108/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/background-sync.js1663104575459441088 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/JP.js1663104575879441094 0
 105/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/transforms3d.js1663104576019441095 0
+76/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.b71e74eb.js.map1663178176834242792 0
 112/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/keyboardevent-which.js1663104575889441094 0
 97/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/wasm.js1663104576039441096 0
 107/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/css-line-clamp.js1663104575709441091 0
@@ -575,7 +577,7 @@
 105/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/script-async.js1663104575979441095 0
 108/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/payment-request.js1663104575949441094 0
 105/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/css-any-link.js1663104575619441090 0
-64/home/juandavidg2203/Curso-Profesional-JavaScript/dist/sw.js.map1663104976319446577 0
+64/home/juandavidg2203/Curso-Profesional-JavaScript/dist/sw.js.map1663178176684242792 0
 114/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/css-image-orientation.js1663104575699441091 0
 106/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/server-timing.js1663104575989441095 0
 109/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/array-find-index.js1663104575319441086 0
@@ -796,7 +798,7 @@
 96/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/dom-serializer/lib/index.d.ts.map1663104575019441082 0
 111/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/keyboardevent-code.js1663104575879441094 0
 97/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/dom-serializer/lib/foreignNames.js1663104574869441080 0
-77/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.78b2a846.css.map1663104976319446577 0
+77/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.78b2a846.css.map1663178176684242792 0
 100/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/dom-serializer/lib/esm/index.d.ts.map1663104575009441082 0
 107/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/dom-serializer/lib/esm/foreignNames.d.ts.map1663104574979441081 0
 59/home/juandavidg2203/Curso-Profesional-JavaScript/.cache/0f1663103298659423605 1
@@ -1336,6 +1338,7 @@
 95/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/entities/lib/decode_codepoint.js1663104574779441078 0
 93/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/nth-check/lib/esm/index.js.map1663104575039441082 0
 92/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/entities/lib/maps/legacy.json1663104575149441084 0
+74/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins/autoPause.ts1663177514734243513 0
 95/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/abortcontroller-polyfill/LICENSE1663104576489441102 0
 80/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/entities/lib/maps1663104575159441084 1
 90/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/entities/lib/index.d.ts.map1663104575229441085 0
@@ -1587,7 +1590,7 @@
 99/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/package-manager/lib/index.js1663104583939441204 0
 98/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/utils/src/parseCSSImport.js1663104585769441229 0
 104/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/custom-targets1663104585599441227 1
-76/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.975ef6c8.js.map1663104976429446578 0
+76/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.975ef6c8.js.map1663176756784244337 0
 81/home/juandavidg2203/Curso-Profesional-JavaScript/dist/typescript.72c601f0.js.map1663103486469426176 0
 112/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/package-manager/src/NodePackageManager.js1663104583949441204 0
 101/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/main-global1663104585609441227 1
@@ -2242,7 +2245,6 @@
 126/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/typescript/loc/lcl/RUS/TypeScriptTasks/TypeScript.Tasks.dll.lcl1663103208219422366 0
 117/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@swc/helpers/lib/_class_check_private_static_access.js1663104575409441087 0
 82/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/terser/lib/compress1663104575599441090 1
-73/home/juandavidg2203/Curso-Profesional-JavaScript/src/plugins/autoPlay.js1663000098377074794 0
 115/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@swc/helpers/lib/_object_without_properties_loose.js1663104575539441089 0
 128/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.0/index.js1663104583949441204 0
 91/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/source-map/README.md1663104577749441119 0
@@ -3579,7 +3581,7 @@
 97/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/logger/test/Logger.test.js1663104583239441194 0
 74/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/ansi-styles1663104574769441078 1
 117/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/lmdb/node_modules/node-addon-api/tools/clang-format.js1663104585079441220 0
-77/home/juandavidg2203/Curso-Profesional-JavaScript/dist/typescript.7f9a0c30.js1663104976319446577 0
+77/home/juandavidg2203/Curso-Profesional-JavaScript/dist/typescript.7f9a0c30.js1663178176664242792 0
 101/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/packager-js/src/DevPackager.js1663104582199441180 0
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/regions/BO.js1663104575519441089 0
 101/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/packager-js/src/dev-prelude.js1663104582189441180 0
@@ -3870,7 +3872,7 @@
 88/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/lib/utils.js1663104585589441226 0
 122/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope1663104575319441086 1
 76/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/lmdb/write.js1663104578989441136 0
-72/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.975ef6c8.js1663104976429446578 0
+72/home/juandavidg2203/Curso-Profesional-JavaScript/dist/index.975ef6c8.js1663176756774244337 0
 126/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg1663104575769441092 1
 94/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/package-manager/LICENSE1663104583389441196 0
 139/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/package.json1663104575769441092 0
@@ -4049,7 +4051,7 @@
 102/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/caniuse-lite/data/features/innertext.js1663104575859441093 0
 109/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/src/requests/ValidationRequest.js1663104585589441226 0
 130/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-json51663104584259441208 0
-54/home/juandavidg2203/Curso-Profesional-JavaScript/dist1663104977439446592 1
+54/home/juandavidg2203/Curso-Profesional-JavaScript/dist1663178177854242791 1
 86/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/src/public1663104585269441222 1
 108/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/src/public/MutableBundleGraph.js1663104584909441217 0
 120/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/node-releases/data/release-schedule/release-schedule.json1663104574949441081 0
@@ -4231,7 +4233,7 @@
 81/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/runtime-js1663104580969441163 1
 119/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest.c1663104577839441120 0
 111/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1663104585609441227 0
-94/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js1663110727355794075 0
+94/home/juandavidg2203/Curso-Profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js1663178176824242792 0
 112/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/transformer-svg/test/parseFuncIRI.test.js1663104579289441140 0
 113/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/invalid-source-not-file1663104585599441227 1
 117/home/juandavidg2203/Curso-Profesional-JavaScript/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/src1663104584909441217 1
